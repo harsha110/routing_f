@@ -1,4 +1,6 @@
-import { Component } from '@angular/core';
+import { Component,OnInit,Input } from '@angular/core';
+import { HttpClient} from '@angular/common/http';
+// import { Response } from 'selenium-webdriver/http';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +8,11 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'routing';
-}
+
+  constructor( private url:HttpClient){
+
+  }
+  ngOnInit(){
+ 
+            }
+ }

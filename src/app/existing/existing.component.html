@@ -1,0 +1,18 @@
+<div *ngIf="val" >
+  <div id ="single">Data  Alredy present in Json Server </div>
+  </div>
+
+  <div *ngIf="!val" >
+      <div id ="single">Data inserted in Json Server </div>
+      </div>
+      <br> <br>
+  <div *ngIf="toggle">
+      <div class=" single_movie" *ngFor="let a of db_data">
+         MOVIE TITLE : <p>{{a.title}}</p> 
+         <li class="list-group-item"><a [routerLink]="['delete',a.id]"  [queryParams]="{q:'exist'}" class="btn btn-primary">DELETE</a></li>
+      </div>
+  </div>    
+  <br> <br>
+  <button type="button" (click)="get_search()" class="btn btn-success">SEE ALL MOVIES ADDED</button>       
+
+

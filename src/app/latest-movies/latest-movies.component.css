@@ -1,0 +1,9 @@
+.card-deck{
+
+}
+
+.card{
+    width:300px;
+    align-items: center;
+    margin: auto;
+}
