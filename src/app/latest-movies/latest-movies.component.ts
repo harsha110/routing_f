@@ -6,16 +6,16 @@ import {DataServiceService} from '../data-service.service';
   styleUrls: ['./latest-movies.component.css']
 })
 export class LatestMoviesComponent implements OnInit {
-  res:[];
-  response:any;
+  response:any={};
   constructor(private D:DataServiceService) { }
 
   ngOnInit() {
     this.D.get_latest_movies().subscribe(input => {
-      this.res = input.results.map(e => {
-       e.poster_path = "https://image.tmdb.org/t/p/w300/" + e.poster_path 
-       return e 
-      });
+      this.response = input
+      // .results.map(e => {
+      //  e.poster_path = "https://image.tmdb.org/t/p/w300/" + e.poster_path 
+      // return e 
+      // });
       console.log(this.response)
     })  
   

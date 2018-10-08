@@ -12,7 +12,7 @@ import { Headers, RequestOptions } from '@angular/http';
 })
 export class SearchComponent implements OnInit {
   the_movie:string="PK";
-  response:any;
+  response:any={};
   toggle:boolean=false;
   route:Router;
   full:string="all_details";
@@ -25,10 +25,11 @@ export class SearchComponent implements OnInit {
   get_search()
   {
     this.D.getall(this.the_movie).subscribe(res => {
-      this.response = res.results.map(e => {
-       e.poster_path = "https://image.tmdb.org/t/p/w300/"+e.poster_path 
-       return e 
-      }); 
+      this.response = res
+      // .results.map(e => {
+      //  e.poster_path = "https://image.tmdb.org/t/p/w300/"+e.poster_path 
+      //  return e 
+      // }); 
       console.log(this.response)
     })
   }

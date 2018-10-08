@@ -1,6 +1,6 @@
 
-<div class="card border-success mb-4" *ngFor="let a of res">
-        <img src="{{a.poster_path}}"alt="No Image In Api">
+<div class="card border-success mb-4" *ngFor="let a of response.results">
+        <img src="https://image.tmdb.org/t/p/w300/{{a.poster_path}}"alt="No Image In Api">
         <div class="card-body">
                 <h5 class="card-title">{{a.title}}</h5> 
         

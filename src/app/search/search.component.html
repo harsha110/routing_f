@@ -4,8 +4,8 @@
     <button type="button" (click)="get_search()" class="btn btn-success">ENTER</button>
 
  <br> <br>
-    <div class="card border-success mb-4" *ngFor="let a of response">
-            <img class="for_im" src="{{a.poster_path}}"alt="No Image In Api">
+    <div class="card border-success mb-4" *ngFor="let a of response.results">
+            <img class="for_im" src="https://image.tmdb.org/t/p/w500/{{a.poster_path}}"alt="No Image In Api">
             <div class="card-body">
                     
                     <h5 class="card-title">{{a.title}}</h5> 
