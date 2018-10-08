@@ -26,7 +26,7 @@ str1:String = new String( "https://api.themoviedb.org/3/search/movie?api_key=d45
     }
 
     get_latest_movies(){
-      return this.http1.get("http://api.themoviedb.org/3/movie/upcoming?api_key=d4500fb80e0a591b21bba15359eb97dd");
+      return this.http1.get("https://api.themoviedb.org/3/movie/upcoming?api_key=d4500fb80e0a591b21bba15359eb97dd");
     }
 
     getdb_data(){
@@ -48,7 +48,7 @@ str1:String = new String( "https://api.themoviedb.org/3/search/movie?api_key=d45
     }
 
     delete(a:string){
-      this.id="https://movie-heroku-responsive.herokuapp.com/movies"
+      this.id="https://movie-heroku-responsive.herokuapp.com/exist"
       this.id=this.id.concat(a);
       return this.http1.delete(this.id);
     }

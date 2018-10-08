@@ -20,7 +20,9 @@ const routes: Routes = [
   {path:'search_page/more/:title',component:MoreComponent},
   {path:'search_page/more/:title/add_db/:title',component:FullComponent},
   {path:'search_page/more/:title/add_db/:title/delete/:value',component:ForDeleteComponent},
+  {path:'search_page/more/:title/add_db_ex/:title/delete/:value',component:ForDeleteComponent},
   {path:'Latest_movies/more/:title/add_db_ex/:title/delete/:value',component:ForDeleteComponent},
+  {path:'Latest_movies/more/:title/add_db/:title/delete/:value',component:ForDeleteComponent},
   {path:'search_page/more/:title/add_db_ex/:title',component:ExistingComponent}
 ];
 
