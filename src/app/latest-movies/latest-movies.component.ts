@@ -11,12 +11,12 @@ export class LatestMoviesComponent implements OnInit {
 
   ngOnInit() {
     this.D.get_latest_movies().subscribe(input => {
-      this.response = input
+      this.response = input;
       // .results.map(e => {
       //  e.poster_path = "https://image.tmdb.org/t/p/w300/" + e.poster_path 
       // return e 
       // });
-      console.log(this.response)
+      console.log(this.response);
     })  
   
   }

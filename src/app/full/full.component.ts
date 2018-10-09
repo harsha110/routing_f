@@ -50,8 +50,8 @@ toggle:boolean=false;
      this.D.get_specific(this.in).subscribe((input)=>{
       //console.log(input)
       
-      this.http1.post("http://localhost:3000/movies",input).subscribe((resp)=>{
-        // console.log(resp);
+      this.http1.post("https://movie-heroku-responsive.herokuapp.com/movies/",input).subscribe((resp)=>{
+        // console.log(resp); 
         this.val=false;
       },
       error => {

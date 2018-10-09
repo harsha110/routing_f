@@ -2,94 +2,6 @@
   "exist": [
     {
       "adult": false,
-      "backdrop_path": "/f4E0ocYeToEuXvczZv6QArrMDJ.jpg",
-      "belongs_to_collection": {
-        "id": 399,
-        "name": "Predator Collection",
-        "poster_path": "/6Z7lASptoiRVxiCFvZaFgH9qp7u.jpg",
-        "backdrop_path": "/fXVzk9OxQwROCuiWvd0Cv76qmZi.jpg"
-      },
-      "budget": 88000000,
-      "genres": [
-        {
-          "id": 27,
-          "name": "Horror"
-        },
-        {
-          "id": 878,
-          "name": "Science Fiction"
-        },
-        {
-          "id": 28,
-          "name": "Action"
-        },
-        {
-          "id": 35,
-          "name": "Comedy"
-        }
-      ],
-      "homepage": "https://www.foxmovies.com/movies/the-predator",
-      "id": 346910,
-      "imdb_id": "tt3829266",
-      "original_language": "en",
-      "original_title": "The Predator",
-      "overview": "From the outer reaches of space to the small-town streets of suburbia, the hunt comes home. Now, the universe’s most lethal hunters are stronger, smarter and deadlier than ever before, having genetically upgraded themselves with DNA from other species. When a young boy accidentally triggers their return to Earth, only a ragtag crew of ex-soldiers and a disgruntled science teacher can prevent the end of the human race.",
-      "popularity": 123.609,
-      "poster_path": "/wMq9kQXTeQCHUZOG4fAe5cAxyUA.jpg",
-      "production_companies": [
-        {
-          "id": 1302,
-          "logo_path": "/kQZtJdyphCmq292iGDqlUx0yk2D.png",
-          "name": "Davis Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 22213,
-          "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
-          "name": "TSG Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 25,
-          "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
-          "name": "20th Century Fox",
-          "origin_country": "US"
-        },
-        {
-          "id": 1786,
-          "logo_path": "/joLFuCWg9e2lweYnFQtRPJKSLlI.png",
-          "name": "Dark Castle Entertainment",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "release_date": "2018-09-13",
-      "revenue": 115839700,
-      "runtime": 107,
-      "spoken_languages": [
-        {
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "iso_639_1": "es",
-          "name": "Español"
-        }
-      ],
-      "status": "Released",
-      "tagline": "The Hunt Has Evolved",
-      "title": "The Predator",
-      "video": false,
-      "vote_average": 5.3,
-      "vote_count": 414
-    },
-    {
-      "adult": false,
       "backdrop_path": "/nt52LkPTb6NmHUJU8OY4XbujTHo.jpg",
       "belongs_to_collection": null,
       "budget": 500000,
@@ -179,79 +91,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
-      "belongs_to_collection": null,
-      "budget": 116000000,
-      "genres": [
-        {
-          "id": 27,
-          "name": "Horror"
-        },
-        {
-          "id": 878,
-          "name": "Science Fiction"
-        },
-        {
-          "id": 28,
-          "name": "Action"
-        },
-        {
-          "id": 53,
-          "name": "Thriller"
-        }
-      ],
-      "homepage": "http://www.venom.movie/site/",
-      "id": 335983,
-      "imdb_id": "tt1270797",
-      "original_language": "en",
-      "original_title": "Venom",
-      "overview": "When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego “Venom” to save his life.",
-      "popularity": 467.931,
-      "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
-      "production_companies": [
-        {
-          "id": 5,
-          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
-          "name": "Columbia Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 7505,
-          "logo_path": "/837VMM4wOkODc1idNxGT0KQJlej.png",
-          "name": "Marvel Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 34,
-          "logo_path": "/GagSvqWlyPdkFHMfQ3pNq6ix9P.png",
-          "name": "Sony Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "release_date": "2018-10-03",
-      "revenue": 205230000,
-      "runtime": 112,
-      "spoken_languages": [
-        {
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "The world has enough Superheroes.",
-      "title": "Venom",
-      "video": false,
-      "vote_average": 6.7,
-      "vote_count": 434
-    },
-    {
-      "adult": false,
       "backdrop_path": "/rftIl3XvJNqWlknjzv7iUYmXk5F.jpg",
       "belongs_to_collection": null,
       "budget": 0,
@@ -306,81 +145,6 @@
       "video": false,
       "vote_average": 7.3,
       "vote_count": 9
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/rkLeovdCmox7Yx2gttcd1Fd1ISG.jpg",
-      "belongs_to_collection": null,
-      "budget": 13000000,
-      "genres": [
-        {
-          "id": 35,
-          "name": "Comedy"
-        },
-        {
-          "id": 18,
-          "name": "Drama"
-        }
-      ],
-      "homepage": null,
-      "id": 297222,
-      "imdb_id": "tt2338151",
-      "original_language": "hi",
-      "original_title": "पीके",
-      "overview": "This experimental satire is a comedy of ideas about an alien in the city, who asks questions that no one has asked before. They are innocent, child-like questions, but they bring about catastrophic answers. People who are set in their ways for generations, are forced to reappraise their world when they see it from PK's innocent eyes. In the process PK makes loyal friends and powerful foes, mends broken lives and angers the establishment. PK's childlike curiosity transforms into a spiritual odyssey for him and millions of others. This offbeat, experimental drama is an ambitious and uniquely original exploration of complex philosophies. It is also a simple and humane tale of love, laughter and letting-go. Finally, it is a moving saga about a friendship between strangers from worlds apart.",
-      "popularity": 7.001,
-      "poster_path": "/sYbWZa413QmoBx0quaTLYMZHMAi.jpg",
-      "production_companies": [
-        {
-          "id": 44163,
-          "logo_path": null,
-          "name": "Rajkumar Hirani Films",
-          "origin_country": ""
-        },
-        {
-          "id": 44164,
-          "logo_path": null,
-          "name": "Vinod Chopra Films",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "IN",
-          "name": "India"
-        }
-      ],
-      "release_date": "2014-12-18",
-      "revenue": 120000000,
-      "runtime": 153,
-      "spoken_languages": [
-        {
-          "iso_639_1": "ku",
-          "name": ""
-        },
-        {
-          "iso_639_1": "hi",
-          "name": "हिन्दी"
-        },
-        {
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "iso_639_1": "fa",
-          "name": "فارسی"
-        },
-        {
-          "iso_639_1": "ur",
-          "name": "اردو"
-        }
-      ],
-      "status": "Released",
-      "tagline": "Peekay hai hum Peekay",
-      "title": "PK",
-      "video": false,
-      "vote_average": 7.7,
-      "vote_count": 362
     }
   ],
   "posts": [
@@ -602,71 +366,6 @@
       "video": false,
       "vote_average": 0,
       "vote_count": 0
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/mFCEeEjRfU2WU9vv5ApXJLzKxy7.jpg",
-      "belongs_to_collection": null,
-      "budget": 10400000,
-      "genres": [
-        {
-          "id": 18,
-          "name": "Drama"
-        },
-        {
-          "id": 10751,
-          "name": "Family"
-        }
-      ],
-      "homepage": null,
-      "id": 360814,
-      "imdb_id": "tt5074352",
-      "original_language": "hi",
-      "original_title": "दंगल",
-      "overview": "Dangal is an extraordinary true story based on the life of Mahavir Singh and his two daughters, Geeta and Babita Phogat. The film traces the inspirational journey of a father who trains his daughters to become world class wrestlers.",
-      "popularity": 6.855,
-      "poster_path": "/5PDT64gtbmH10gK5AYR7LZh5PQk.jpg",
-      "production_companies": [
-        {
-          "id": 2140,
-          "logo_path": null,
-          "name": "Aamir Khan Productions",
-          "origin_country": "IN"
-        },
-        {
-          "id": 2,
-          "logo_path": "/4MbjW4f9bu6LvlDmyIvfyuT3boj.png",
-          "name": "Walt Disney Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 2320,
-          "logo_path": "/nSAXfUCy16cNRiPlBMHeb700t9p.png",
-          "name": "UTV Motion Pictures",
-          "origin_country": "IN"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "IN",
-          "name": "India"
-        }
-      ],
-      "release_date": "2016-12-23",
-      "revenue": 310000000,
-      "runtime": 161,
-      "spoken_languages": [
-        {
-          "iso_639_1": "hi",
-          "name": "हिन्दी"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "title": "Dangal",
-      "video": false,
-      "vote_average": 8,
-      "vote_count": 267
     },
     {
       "adult": false,
@@ -1227,72 +926,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/m03jul0YdVEOFXEQVUv6pOVQYGL.jpg",
-      "belongs_to_collection": {
-        "id": 185103,
-        "name": "Hotel Transylvania Collection",
-        "poster_path": "/lrss5CB6dgRMnBoTlqhWoRTYbiv.jpg",
-        "backdrop_path": "/arH2YrpG7EVMnA4JCtzAXt9wQQJ.jpg"
-      },
-      "budget": 80000000,
-      "genres": [
-        {
-          "id": 10751,
-          "name": "Family"
-        },
-        {
-          "id": 14,
-          "name": "Fantasy"
-        },
-        {
-          "id": 35,
-          "name": "Comedy"
-        },
-        {
-          "id": 16,
-          "name": "Animation"
-        }
-      ],
-      "homepage": "http://www.hotelt3.com",
-      "id": 400155,
-      "imdb_id": "tt5220122",
-      "original_language": "en",
-      "original_title": "Hotel Transylvania 3: Summer Vacation",
-      "overview": "Dracula, Mavis, Johnny and the rest of the Drac Pack take a vacation on a luxury Monster Cruise Ship, where Dracula falls in love with the ship’s captain, Ericka, who’s secretly a descendant of Abraham Van Helsing, the notorious monster slayer.",
-      "popularity": 73.731,
-      "poster_path": "/gjAFM4xhA5vyLxxKMz38ujlUfDL.jpg",
-      "production_companies": [
-        {
-          "id": 2251,
-          "logo_path": "/8PUjvTVmtJDdDXURTaSoPID0Boj.png",
-          "name": "Sony Pictures Animation",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "release_date": "2018-06-28",
-      "revenue": 100176000,
-      "runtime": 97,
-      "spoken_languages": [
-        {
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "title": "Hotel Transylvania 3: Summer Vacation",
-      "video": false,
-      "vote_average": 6.9,
-      "vote_count": 706
-    },
-    {
-      "adult": false,
       "backdrop_path": "/gb3TVVZNNxVGNfS1NxGaiWZfwnW.jpg",
       "belongs_to_collection": null,
       "budget": 0,
@@ -1515,60 +1148,90 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/840rbblaLc4SVxm8gF3DNdJ0YAE.jpg",
+      "backdrop_path": null,
       "belongs_to_collection": null,
-      "budget": 36000000,
+      "budget": 0,
+      "genres": [],
+      "homepage": null,
+      "id": 292814,
+      "imdb_id": "tt3967412",
+      "original_language": "en",
+      "original_title": "Forma Otwarta - Ulica i Trybuna przed PKiN",
+      "overview": "Open Form - Street and Tribune in Front of PKiN. A sequence from the 1971 KwieKulik film Open Form, in which the Polish art collective interrupts and upends the normal rhythms and routines of a city street.",
+      "popularity": 0.6,
+      "poster_path": null,
+      "production_companies": [],
+      "production_countries": [],
+      "release_date": "1971-09-14",
+      "revenue": 0,
+      "runtime": 5,
+      "spoken_languages": [],
+      "status": "Released",
+      "tagline": "",
+      "title": "Forma Otwarta - Ulica i Trybuna przed PKiN",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/f4E0ocYeToEuXvczZv6QArrMDJ.jpg",
+      "belongs_to_collection": {
+        "id": 399,
+        "name": "Predator Collection",
+        "poster_path": "/6Z7lASptoiRVxiCFvZaFgH9qp7u.jpg",
+        "backdrop_path": "/fXVzk9OxQwROCuiWvd0Cv76qmZi.jpg"
+      },
+      "budget": 88000000,
       "genres": [
         {
-          "id": 18,
-          "name": "Drama"
+          "id": 27,
+          "name": "Horror"
         },
         {
-          "id": 10402,
-          "name": "Music"
+          "id": 878,
+          "name": "Science Fiction"
         },
         {
-          "id": 10749,
-          "name": "Romance"
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
         }
       ],
-      "homepage": "http://astarisbornmovie.com",
-      "id": 332562,
-      "imdb_id": "tt1517451",
+      "homepage": "https://www.foxmovies.com/movies/the-predator",
+      "id": 346910,
+      "imdb_id": "tt3829266",
       "original_language": "en",
-      "original_title": "A Star Is Born",
-      "overview": "Seasoned musician Jackson Maine discovers—and falls in love with—struggling artist Ally. She has just about given up on her dream to make it big as a singer—until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.",
-      "popularity": 117.192,
-      "poster_path": "/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "original_title": "The Predator",
+      "overview": "From the outer reaches of space to the small-town streets of suburbia, the hunt comes home. Now, the universe’s most lethal hunters are stronger, smarter and deadlier than ever before, having genetically upgraded themselves with DNA from other species. When a young boy accidentally triggers their return to Earth, only a ragtag crew of ex-soldiers and a disgruntled science teacher can prevent the end of the human race.",
+      "popularity": 193.745,
+      "poster_path": "/wMq9kQXTeQCHUZOG4fAe5cAxyUA.jpg",
       "production_companies": [
         {
-          "id": 3528,
-          "logo_path": "/mo2K3alhIGefuqxUnEIBzXjHDr9.png",
-          "name": "Thunder Road Pictures",
+          "id": 1302,
+          "logo_path": "/kQZtJdyphCmq292iGDqlUx0yk2D.png",
+          "name": "Davis Entertainment",
           "origin_country": "US"
         },
         {
-          "id": 83035,
-          "logo_path": null,
-          "name": "22 & Green",
+          "id": 22213,
+          "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+          "name": "TSG Entertainment",
           "origin_country": "US"
         },
         {
-          "id": 975,
-          "logo_path": null,
-          "name": "Gerber Pictures",
+          "id": 25,
+          "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+          "name": "20th Century Fox",
           "origin_country": "US"
         },
         {
-          "id": 83036,
-          "logo_path": null,
-          "name": "Joint Effort",
-          "origin_country": "US"
-        },
-        {
-          "id": 171,
-          "logo_path": null,
-          "name": "Malpaso Productions",
+          "id": 1786,
+          "logo_path": "/joLFuCWg9e2lweYnFQtRPJKSLlI.png",
+          "name": "Dark Castle Entertainment",
           "origin_country": "US"
         }
       ],
@@ -1578,9 +1241,9 @@
           "name": "United States of America"
         }
       ],
-      "release_date": "2018-10-03",
-      "revenue": 56600000,
-      "runtime": 135,
+      "release_date": "2018-09-13",
+      "revenue": 115839700,
+      "runtime": 107,
       "spoken_languages": [
         {
           "iso_639_1": "en",
@@ -1588,11 +1251,11 @@
         }
       ],
       "status": "Released",
-      "tagline": "",
-      "title": "A Star Is Born",
+      "tagline": "The Hunt Has Evolved",
+      "title": "The Predator",
       "video": false,
-      "vote_average": 7.3,
-      "vote_count": 170
+      "vote_average": 5.3,
+      "vote_count": 454
     }
   ],
   "comments": [

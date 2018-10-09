@@ -30,11 +30,11 @@ str1:String = new String( "https://api.themoviedb.org/3/search/movie?api_key=d45
     }
 
     getdb_data(){
-      return this.http1.get("https://movie-heroku-responsive.herokuapp.com/movies");
+      return this.http1.get("https://movie-heroku-responsive.herokuapp.com/movies/");
     }
     
     getdb_data_ex(){
-      return this.http1.get("https://movie-heroku-responsive.herokuapp.com/exist");
+      return this.http1.get("https://movie-heroku-responsive.herokuapp.com/exist/");
     }
 
 
@@ -48,12 +48,12 @@ str1:String = new String( "https://api.themoviedb.org/3/search/movie?api_key=d45
     }
 
     delete(a:string){
-      this.id="https://movie-heroku-responsive.herokuapp.com/exist"
+      this.id="https://movie-heroku-responsive.herokuapp.com/movies/"
       this.id=this.id.concat(a);
       return this.http1.delete(this.id);
     }
     delete_ex(a:string){
-      this.id="https://movie-heroku-responsive.herokuapp.com/exist"
+      this.id="https://movie-heroku-responsive.herokuapp.com/exist/"
       this.id=this.id.concat(a);
       return this.http1.delete(this.id);
     }

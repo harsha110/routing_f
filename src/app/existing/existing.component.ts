@@ -26,7 +26,7 @@ export class ExistingComponent implements OnInit {
    this.route.params.subscribe(params=>this.in=params.title);
    this.D.get_specific(this.in).subscribe((input)=>{
     //console.log(input)
-    this.http1.post("http://localhost:3000/exist",input).subscribe((resp)=>{
+    this.http1.post("https://movie-heroku-responsive.herokuapp.com/exist/",input).subscribe((resp)=>{
       // console.log(resp);
       this.val=false;
     },

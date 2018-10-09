@@ -10,6 +10,7 @@ import {HttpClient} from '@angular/common/http';
 export class ForDeleteComponent implements OnInit {
 in:string;
 q:string;
+res:any;
   constructor(private D:DataServiceService,private route: ActivatedRoute,private http1:HttpClient) { }
 
   ngOnInit() {
@@ -25,11 +26,18 @@ q:string;
       if(this.q=="movies")
       {
         console.log("movies");
-        this.D.delete(this.in).subscribe((input)=> console.log("deleted"));}
+        this.D.delete(this.in).subscribe((input)=> {console.log("deleted_m")
+        this.D.getdb_data().subscribe((input)=> {this.res=input
+        })});
+         
+      }
       else if(this.q=="exist")
       {
       console.log("exist");
-      this.D.delete_ex(this.in).subscribe((input)=> console.log("deleted"));}
+      this.D.delete_ex(this.in).subscribe((input)=> {console.log("deleted_e")
+      this.D.getdb_data_ex().subscribe((input)=> this.res=input
+      );})
+    }
     });
     } 
   }
